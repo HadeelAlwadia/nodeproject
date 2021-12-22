@@ -1,0 +1,23 @@
+
+ {
+   "user1" : {
+      "id": 1,
+      "name": "hadeel",
+      "profession": "engineer"
+   },
+   
+   "user2" : {
+      "id": 2,
+      "name": "mohmmed shamia",
+      "profession": "engineer"
+
+
+   },
+   
+   "user3" : {
+      "id": 3,
+      "name": "omer",
+      "profession": "policeman"
+   
+   }
+}
